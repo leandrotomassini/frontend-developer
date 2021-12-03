@@ -1,2 +1,3 @@
-# frontend-developer
-Dominar las bases de HTML y CSS. Conocer la anatomía de un documento HTML, sus elementos y las propiedades de CSS. Maquetar las pantallas principales de mi página web con responsive design.
+![frontend-developer](https://i.imgur.com/G4740Ck.jpg)
+# Become a frontend developer
+Mastering the basics of HTML and CSS. Know the anatomy of an HTML document, its elements and the properties of CSS. Layout the main screens of my website with a responsive design.
